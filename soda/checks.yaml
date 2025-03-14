@@ -1,0 +1,64 @@
+checks for tmp:
+  - schema:
+      name: Any schema changes
+      warn:
+        when schema changes:
+          - column delete
+          - column add
+          - column index change
+          - column type change
+
+  - row_count > 0
+  - row_count < 500
+
+  - invalid_count(Speed_Over_Ground_knots) = 0:
+      valid min: 5.0
+      valid max: 30.0
+  - invalid_count(Engine_Power_kW) = 0:
+      valid min: 400.0
+      valid max: 3500.0
+  - invalid_count(Distance_Traveled_nm) = 0:
+      valid min: 10.0
+      valid max: 3000.0
+  - invalid_count(Draft_meters) = 0:
+      valid min: 4.0
+      valid max: 20.0
+  - invalid_count(Operational_Cost_USD) = 0:
+      valid min: 10000.0
+      valid max: 750000.0
+  - invalid_count(Revenue_per_Voyage_USD) = 0:
+      valid min: 30000.0
+      valid max: 1500000.0
+  - invalid_count(Turnaround_Time_hours) = 0:
+      valid min: 10.0
+      valid max: 80.0
+  - invalid_count(Efficiency_nm_per_kWh) = 0:
+      valid min: 0.05
+      valid max: 2.0
+  - invalid_count(Seasonal_Impact_Score) = 0:
+      valid min: 0.1
+      valid max: 2.0
+  - invalid_count(Weekly_Voyage_Count) = 0:
+      valid min: 1
+      valid max: 10
+  - invalid_count(Average_Load_Percentage) = 0:
+      valid min: 40.0
+      valid max: 100.0
+
+  - missing_count(Speed_Over_Ground_knots) = 0
+  - missing_count(Engine_Power_kW) = 0
+  - missing_count(Distance_Traveled_nm) = 0
+  - missing_count(Draft_meters) = 0
+  - missing_count(Operational_Cost_USD) = 0
+  - missing_count(Revenue_per_Voyage_USD) = 0
+  - missing_count(Turnaround_Time_hours) = 0
+  - missing_count(Efficiency_nm_per_kWh) = 0
+  - missing_count(Seasonal_Impact_Score) = 0
+  - missing_count(Weekly_Voyage_Count) = 0
+  - missing_count(Average_Load_Percentage) = 0
+  - missing_count(Date) = 0
+  - missing_count(Ship_Type) = 0
+  - missing_count(Route_Type) = 0
+  - missing_count(Engine_Type) = 0
+  - missing_count(Maintenance_Status) = 0
+  - missing_count(Weather_Condition) = 0

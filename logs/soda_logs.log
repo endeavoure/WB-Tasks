@@ -1,0 +1,1120 @@
+
+ Итерация 1:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 7424605397214427075
+
+ Итерация 2:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 6281197027950900383
+
+ Итерация 3:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 6087091799089020092
+
+ Итерация 4:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 1563445168649895344
+
+ Итерация 5:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 628990739399031932
+
+ Итерация 6:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 4639188790015678999
+
+ Итерация 7:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 9011239381307098932
+
+ Итерация 8:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 2693295415561062587
+
+ Итерация 9:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 1042185911444097544
+
+ Итерация 10:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 2512895492941838299
+
+ Итерация 11:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 4287960424064502082
+
+ Итерация 12:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 5126872213411843512
+
+ Итерация 13:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 2381014086116886913
+
+ Итерация 14:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 2627172198769549124
+
+ Итерация 15:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 9199215830517461580
+
+ Итерация 16:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 4214059006929122305
+
+ Итерация 17:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 7995851513771484688
+
+ Итерация 18:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 6260097419406283734
+
+ Итерация 19:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 6239501164635710050
+
+ Итерация 20:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 5564041264527851464
+
+ Итерация 21:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 3520044994034604270
+
+ Итерация 22:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 7816831751676338494
+
+ Итерация 23:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 2673099184423707178
+
+ Итерация 24:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 8209622177580048338
+
+ Итерация 25:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 892065093898074841
+
+ Итерация 26:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 1190487581754549680
+
+ Итерация 27:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 3125501953104502942
+
+ Итерация 28:
+INFO   | Soda Core 3.5.0
+INFO   | Scan summary:
+INFO   | 31/31 checks PASSED: 
+INFO   |     tmp in tmp
+INFO   |       Any schema changes [PASSED]
+INFO   |       row_count > 0 [PASSED]
+INFO   |       row_count < 500 [PASSED]
+INFO   |       invalid_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       missing_count(Speed_Over_Ground_knots) = 0 [PASSED]
+INFO   |       invalid_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       missing_count(Engine_Power_kW) = 0 [PASSED]
+INFO   |       invalid_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       missing_count(Distance_Traveled_nm) = 0 [PASSED]
+INFO   |       invalid_count(Draft_meters) = 0 [PASSED]
+INFO   |       missing_count(Draft_meters) = 0 [PASSED]
+INFO   |       invalid_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       missing_count(Operational_Cost_USD) = 0 [PASSED]
+INFO   |       invalid_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       missing_count(Revenue_per_Voyage_USD) = 0 [PASSED]
+INFO   |       invalid_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       missing_count(Turnaround_Time_hours) = 0 [PASSED]
+INFO   |       invalid_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       missing_count(Efficiency_nm_per_kWh) = 0 [PASSED]
+INFO   |       invalid_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       missing_count(Seasonal_Impact_Score) = 0 [PASSED]
+INFO   |       invalid_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       missing_count(Weekly_Voyage_Count) = 0 [PASSED]
+INFO   |       invalid_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Average_Load_Percentage) = 0 [PASSED]
+INFO   |       missing_count(Date) = 0 [PASSED]
+INFO   |       missing_count(Ship_Type) = 0 [PASSED]
+INFO   |       missing_count(Route_Type) = 0 [PASSED]
+INFO   |       missing_count(Engine_Type) = 0 [PASSED]
+INFO   |       missing_count(Maintenance_Status) = 0 [PASSED]
+INFO   |       missing_count(Weather_Condition) = 0 [PASSED]
+INFO   | All is good. No failures. No warnings. No errors.
+INFO   | Sending results to Soda Cloud
+INFO   | Soda Cloud Trace: 3837327217908484428
